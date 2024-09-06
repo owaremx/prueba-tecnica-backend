@@ -48,3 +48,13 @@ Thumbs.db
 *.mov
 *.wmv
 
+
+#proyecto:
+.vs
+
+prueba-tecnica-gonet/obj/*
+prueba-tecnica-gonet/bin/*
+prueba-tecnica-gonet/archivos/*
+
+data-access/obj/*
+data-access/bin/*
